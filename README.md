@@ -1,0 +1,2 @@
+# takumiruby
+たくみのruby勉強
